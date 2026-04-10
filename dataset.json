@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Metro-wide restaurant data for the Beaumont-Port Arthur (Metro), Texas metropolitan area, spanning Beaumont and Port Arthur. Covers the full metropolitan dining ecosystem of a growing metropolitan dining market. Filtered by the Restaurants category group with ratings, review analytics, competitive positioning, and contact information. Refreshed weekly.",
+  "config_name": "All Restaurants in Beaumont-Port Arthur (Metro), Texas, US",
+  "export_job_id": "6b38799d-483a-496e-9e64-81e6c71168b9",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 192515,
+  "location_name": "Beaumont-Port Arthur, TX",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-beaumont-port-arthur-metro-texas-us-sample-192515",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/192515/beamstation_192515_restaurants-us-beaumontportarthurtx_SAMPLE_DIST.csv",
+  "sample_pct": 5.15,
+  "sample_records": 25,
+  "sample_sha256": "d67e714891c1462e546840ed3b8fcda590c5c7ff738d175a90dae6f4d07af3f9",
+  "sample_size_bytes": 114042,
+  "total_records": 485,
+  "updated_at": "2026-03-31T16:31:30.947483+00:00"
+}

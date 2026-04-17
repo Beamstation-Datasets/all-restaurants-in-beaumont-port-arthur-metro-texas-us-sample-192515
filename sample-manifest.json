@@ -1,12 +1,12 @@
 {
-  "export_job_id": "6b38799d-483a-496e-9e64-81e6c71168b9",
+  "export_job_id": "ca8e8a2e-8b8d-4ca9-b343-76fbef24fd6d",
   "id_short": 192515,
-  "published_at": "2026-04-10T19:30:22Z",
+  "published_at": "2026-04-17T19:10:26Z",
   "repo_name": "all-restaurants-in-beaumont-port-arthur-metro-texas-us-sample-192515",
   "sample_asset_name": "beamstation_192515_restaurants-us-beaumontportarthurtx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/192515/beamstation_192515_restaurants-us-beaumontportarthurtx_SAMPLE_DIST.csv",
-  "sample_records": 25,
-  "sample_sha256": "d67e714891c1462e546840ed3b8fcda590c5c7ff738d175a90dae6f4d07af3f9",
-  "sample_size_bytes": 114042,
-  "total_records": 485
+  "sample_records": 69,
+  "sample_sha256": "4010cc2c064e6f33cd4257e40098751db4182ec048b65c2692cda976d6e60f15",
+  "sample_size_bytes": 241362,
+  "total_records": 695
 }

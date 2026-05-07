@@ -1,6 +1,6 @@
 # All Restaurants in Beaumont-Port Arthur (Metro), Texas, US
 
-> Free BeamStation sample export with 47 rows and masked direct-contact fields.
+> Free BeamStation sample export with 72 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `192515` |
 | Location | Beaumont-Port Arthur, TX |
 | Category | Restaurants |
-| Full dataset size | 479 records |
-| Free sample size | 47 records (9.81%) |
-| Last export | 2026-04-28T20:25:05.891993+00:00 |
+| Full dataset size | 724 records |
+| Free sample size | 72 records (9.94%) |
+| Last export | 2026-05-07T11:45:28.975565+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-beaumont-port-arthur-metro-texas-us-sample-192515/releases/download/sample-latest/beamstation_192515_restaurants-us-beaumontportarthurtx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
